@@ -15,3 +15,4 @@ use this in command line to convert the python file to executable file:
 ```shell
 pyinstaller --onefile THBWikiLyricConvert.py
 ```
+I have been finished this step, so you can download dish/THBWikiLyricConvert.ext to use
